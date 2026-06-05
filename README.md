@@ -1,4 +1,4 @@
-Developed a comprehensive End-to-End AI Strategy for Customer Churn Prevention in the Telecom industry as part of MeritShot's Data Science & AI program.
+Developed a comprehensive End-to-End  Customer Churn Prevention in the Telecom industry as part of MeritShot's Data Science & AI program.
 
 🔍 Problem: Predict which customers are likely to churn within 30–60 days and trigger automated, personalised retention interventions.
 
